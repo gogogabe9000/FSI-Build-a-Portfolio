@@ -17,6 +17,12 @@ p {
 div {
     border: 2px solid gray;
     border-radius: 5px;
-    border-collapse: separate;
-    border-spacing: 15px;
+    margin: 10px;
+}
+img {
+    width: auto;
+    height: 200px;
+}
+ul {
+    color: white;
 }
