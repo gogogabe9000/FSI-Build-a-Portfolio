@@ -2,27 +2,26 @@ body {
     background-color: #383d46;
     background-image: url(../images/Black\ Concrete\ Bricks.jpg);
 }
-h1 {
+
+.headers {
     color: yellow;
 }
-h2 {
-    color: yellow;
-}
-h3 {
-    color: yellow;
-}
+
 p {
     color: white;
 }
+
 div {
     border: 2px solid gray;
     border-radius: 5px;
     margin: 10px;
 }
-img {
+
+#myPhoto {
     width: auto;
-    height: 200px;
+    height: 250px;
 }
+
 ul {
     color: white;
 }
